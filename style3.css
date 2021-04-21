@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap);
+
+
+body {     
+    background-color: rgb(104, 101, 101);  
+	font-family: 'Bebas Neue', cursive;
+}
+
+
+a{
+   text-decoration: none !important;
+   color: white !important;
+   
+}
+
+
+
+
+      
+     
+    
+   .rkbutton ul {
+      white-space: nowrap;
+      font-size: 20px;
+      font-family: 'Bebas Neue', cursive;
+      display: flex;
+      justify-content: space-around;
+      width: 380px;
+      margin-right: 2rem;
+      align-items: center;
+      position: relative;
+      bottom: -10px;
+      
+        
+     }
+     
+     h1 {
+        color:rgb(253, 253, 253);
+        text-align: center;
+        font-size: 70px !important;
+         font-family: 'Bebas Neue';
+         text-shadow: -1px 0 black, 0 1px black,
+          1px 0 black, 0 -1px black;
+
+     }
+
+     
+    .titre {
+        height: 150px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+     .rkbutton {
+    padding-left: 1rem !important;
+    
+     }
+     
+    
+     .logo {
+      height: 55px;
+      margin-left: 1rem;
+    
+     }
+    
+    

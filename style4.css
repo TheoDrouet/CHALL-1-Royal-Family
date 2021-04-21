@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap);
+
+
+body {     
+    background-image: url("./assets/bigben-831699_1920.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;   
+    width: 100vw;
+     background-color: rgb(253, 253, 253);
+	font-family: 'Bebas Neue', cursive;
+    background-position-y: -100px;
+
+}
+
+
+a{
+   text-decoration: none !important;
+   color: white !important;
+   
+}
+
+
+.sizeas {
+    position: relative;
+    left: 700px;
+    max-width: 500px;
+    bottom: -80px;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black,
+    1px 0 black, 0 -1px black;
+}
+
+      
+     
+    
+   .rkbutton ul {
+      white-space: nowrap;
+      font-size: 20px;
+      font-family: 'Bebas Neue', cursive;
+      display: flex;
+      justify-content: space-around;
+      width: 380px;
+      margin-right: 2rem;
+      align-items: center;
+      position: relative;
+      bottom: -10px;
+      
+        
+     }
+     
+     h1 {
+        color:rgb(253, 253, 253);
+        text-align: center;
+        font-size: 70px !important;
+         font-family: 'Bebas Neue';
+         text-shadow: -1px 0 black, 0 1px black,
+          1px 0 black, 0 -1px black;
+        
+     }
+
+     
+    .titre {
+        height: 150px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+     .rkbutton {
+    padding-left: 1rem !important;
+    
+     }
+     
+    
+     .logo {
+      height: 55px;
+      margin-left: 1rem;
+    
+     }
+
+    
